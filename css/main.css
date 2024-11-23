@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v35_13 {
+  width: 440px;
+  height: 1389px;
+  background: linear-gradient(rgba(0,70,127,1), rgba(165,204,130,1));
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v35_15 {
+  width: 387px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 113px;
+  left: 28px;
+  font-family: Libre Barcode 39 Extended Text;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v35_18 {
+  width: 100px;
+  height: 78px;
+  background: url("../images/v35_18.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 10px 10px;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 2187px;
+  left: 169px;
+  overflow: hidden;
+}
+.v50_2 {
+  width: 100px;
+  height: 78px;
+  background: url("../images/v50_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 10px 10px;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 800px;
+  left: 172px;
+  overflow: hidden;
+}
+.v35_17 {
+  width: 80px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-family: Zen Maru Gothic;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v50_4 {
+  width: 182px;
+  height: 182px;
+  background: url("../images/v50_4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 303px;
+  left: 129px;
+  overflow: hidden;
+}
